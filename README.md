@@ -19,7 +19,7 @@ Incoming Email
   Extract PO Information
       |
       v
-  Azure OpenAI
+  Azure OpenAI(GPT 5.4)
       |
       v
  Structured PO JSON
@@ -40,8 +40,16 @@ Incoming Email
           v             v
        Approved     Human Review
           |             |
-          v             v
-      Google Sheets   Email Notification
+          |             |
+          |             v
+          |       Email Notification
+          |             |
+          v             v 
+          +------+-------
+                 |
+                 v
+             Google Sheets   
+                        
 ```
 
 ## Workflow Overview
