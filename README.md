@@ -137,14 +137,11 @@ The workflow is designed around the following steps:
 .
 ├── n8n/
 │   └── workflow.json
-├── knowledge_base/
-│   └── supplier_data.csv
 ├── sample_documents/
-│   ├── clean_po.pdf
-│   ├── policy_mismatch_po.pdf
-│   └── ambiguous_po.pdf
+│   ├── PO-1001.pdf
+│   ├── PO-1002.pdf
+│   └── PO-1003.pdf
 ├── .env.example
-├── .gitignore
 └── README.md
 ```
 
