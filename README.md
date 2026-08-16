@@ -141,7 +141,9 @@ The workflow is designed around the following steps:
 │   ├── PO-1001.pdf
 │   ├── PO-1002.pdf
 │   └── PO-1003.pdf
-├── .env.example
+├── Documents/
+|    |---Supplier and Purchase Order Approval Policy.pdf
+|    |---Suppliers.pdf
 └── README.md
 ```
 
