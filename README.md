@@ -24,7 +24,7 @@ Incoming Email
       v
  Structured PO JSON
       |
-      +----------------------+
+      +--------RAG-----------+
       |                      |
       v                      v
  Supplier / Policy       Vector Search
