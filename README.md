@@ -325,8 +325,6 @@ Human Review
 
 ## Security
 
-**Never commit secrets to this repository.**
-
 Do not commit:
 
 - Azure OpenAI API keys
@@ -354,6 +352,3 @@ Also sanitize n8n workflow exports before publishing them if they contain:
 
 This repository is a demonstration of an agentic AI workflow for Purchase Order processing. It is intended for development, testing, and demonstration purposes and should be reviewed and hardened before use in a production environment.
 
-## Author
-
-AI Engineer — Agentic AI / RAG / Automation
